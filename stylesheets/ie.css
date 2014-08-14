@@ -1,0 +1,19 @@
+.overlay-slider .bx-has-pager .bx-pager .bx-pager-item a { border: 2px solid #766f16; }
+.overlay-slider .bx-has-pager .bx-pager .bx-pager-item a.active { background-color: #766f16; }
+
+.overlay-slider ul li { background-color: #cdcd05; -ms-behavior: url(../hack/backgroundsize.min.htc); }
+
+#nav a { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F2C1F1D,endColorstr=#7F2C1F1D)"; /* IE8 */ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F2C1F1D,endColorstr=#7F2C1F1D); /* IE6 & 7 */ zoom: 1; }
+
+#nav > ul > li .sub-menu { -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#8CFFFFFF,endColorstr=#8CFFFFFF)"; /* IE8 */ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#8CFFFFFF,endColorstr=#8CFFFFFF); /* IE6 & 7 */ zoom: 1; }
+#nav > ul > li .sub-menu a { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#8CFFFFFF,endColorstr=#8CFFFFFF)"; /* IE8 */ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#8CFFFFFF,endColorstr=#8CFFFFFF); /* IE6 & 7 */ zoom: 1; }
+
+.controls#CAPTCHA input.btn { margin-right: 0; }
+
+.about-wrapper .overlay { -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#54000000,endColorstr=#54000000)"; /* IE8 */ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#54000000,endColorstr=#54000000); /* IE6 & 7 */ }
+
+.about-wrapper .custom-lightbox-content a.icons-close { right: 5px; top: 5px; }
+
+a#backlink { background: transparent; -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#54000000,endColorstr=#54000000)"; /* IE8 */ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#54000000,endColorstr=#54000000); /* IE6 & 7 */ zoom: 1; }
+
+#breadcrumb ul li a { color: #ffffff; }
