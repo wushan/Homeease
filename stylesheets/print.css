@@ -194,4 +194,10 @@
   .product-wrapper .printable-footer .block h4 { margin: 0; }
   .product-wrapper .printable-footer .block img { max-width: 100%; height: auto; margin: 0 auto; }
   a#backlink { display: none; }
-  #breadcrumb { display: none; } }
+  #breadcrumb { display: none; }
+  /* for about page */
+  section { margin: 20px 0;}
+  section:before, section:after { content: ''; clear: both; display: block;}
+  .thumb img { display: block; margin: 0 auto; max-width: 90%;}
+  .custom-lightbox { display: none;}
+}
